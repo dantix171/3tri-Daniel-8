@@ -1,0 +1,17 @@
+body{
+    background-color: azure;
+    padding: 10px;
+    justify-content: center;
+    height: auto;
+}
+.js,.css{
+    background-color: bisque;
+    border: 1px saddlebrown;
+    border-radius: 2px;
+}
+footer{
+    background-color: black;
+    color: aliceblue;
+    padding: 1rem;
+    font-size: 8px;
+}
